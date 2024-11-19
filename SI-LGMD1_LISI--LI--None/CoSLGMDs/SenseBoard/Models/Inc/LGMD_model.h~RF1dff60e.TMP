@@ -1,0 +1,90 @@
+/*
+ * Description: LGMDs (New) with ON and OFF pathways
+ * Filename: LGMD_model.h
+ * Author: Qinbing Fu
+ * Date: 2018
+*/
+
+#ifndef __LGMD_PC_H
+#define __LGMD_PC_H
+
+
+#include <stdint.h>
+
+
+#define Layer_Width 99
+#define Layer_Height 72
+
+
+typedef struct
+{
+	uint8_t ON[2][Layer_Height][Layer_Width];		//ON Cells
+	uint8_t OFF[2][Layer_Height][Layer_Width];		//OFF Cells
+	uint8_t S[Layer_Height][Layer_Width];		//Summation Layer
+	uint8_t G[Layer_Height][Layer_Width];		//Grouping Layer
+	
+}LGMDstruct_Layer;
+
+typedef struct
+{
+	uint8_t Tcol;		//threshold for collision recognition
+	uint8_t Kspi;		//scale parameter in spiking mechanism
+	uint8_t Cw;		//constant to compute the scale in G layer
+	uint8_t CdeTde;		//threshold gate in G layer
+	uint8_t Tffi;		//FFI threshold
+	int8_t clip;		//clip point in ON and OFF mechanisms
+	uint16_t Ncell;		//total number of cells
+	float W_on;		//weight in ON channels
+	float W_off;		//weight in OFF channels
+	float W_inter;		//weight in interaction of ON and OFF channels
+	float Tsp;		//threshold for spiking
+	float Tsfa;		//threshold gate in spike frequency adaptation mechanism
+	float Bias_on;		//inhibitory bias in ON channels
+	float Bias_off;		//inhibitory bias in OFF channels
+	float dc;		//proportion in DC component
+	float Ksig;		//coefficient in sigmoid function
+	float DeltaC;		//small real number to compute the scale in G layer
+	float hp_tau;		//time constant in high-pass of spike frequenc adaptation mechanism
+	float lp_ffi;		//time constant in FFI
+	float lp_on_cent_tau;		//time constant in centre cells in ON channels
+	float lp_on_near_tau;		//time constant in nearest cells in ON channels
+	float lp_on_diag_tau;		//time constant in diagonal cells in ON channels
+	float lp_off_cent_tau;		//time constant in centre cells in OFF channels
+	float lp_off_near_tau;		//time constant in nearest cells in OFF channels
+	float lp_off_diag_tau;		//time constant in diagonal cells in OFF channels
+	float delay_sfa;		//delay parameter in SFA
+	float delay_ffi;		//delay parameter in FFI
+	float delay_on_cent;		//delay parameter in centre cells in ON channels
+	float delay_on_near;		//delay parameter in nearest cells in ON channels
+	float delay_on_diag;		//delay parameter in diagonal cells in ON channels
+	float delay_off_cent;		//delay parameter in centre cells in OFF channels
+	float delay_off_near;		//delay parameter in nearest cells in OFF channels
+	float delay_off_diag;		//delay parameter in diagonal cells in OFF channels
+	
+}LGMDstruct_Params;
+
+
+typedef struct
+{
+	uint8_t SPIKE;		//spikes
+	uint8_t Nsp;		//number of successive spikes
+	float FFI_out[2];		//FFI output
+	float SMP[2];		//sigmoid membrane potential
+	float LGMD_out[2];		//LGMDs output
+	
+}LGMDstruct_Result;
+
+typedef struct
+{
+	LGMDstruct_Layer Layers;
+	LGMDstruct_Params Params;
+	LGMDstruct_Result Results;
+	int16_t* pImg;
+	int8_t* pDiffImg;
+}LGMDType;
+
+
+
+#endif
+
+

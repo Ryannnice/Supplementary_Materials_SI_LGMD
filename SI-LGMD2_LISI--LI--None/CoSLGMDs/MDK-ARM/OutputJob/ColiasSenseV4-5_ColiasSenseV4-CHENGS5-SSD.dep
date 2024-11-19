@@ -1,0 +1,1648 @@
+Dependencies for Project 'ColiasSenseV4-5', Target 'ColiasSenseV4-CHENGS5-SSD': (DO NOT MODIFY !)
+F (..\User\Src\main.c)(0x66236AE8)(-c --cpu Cortex-M4.fp -D__MICROLIB -g -O1 -Otime --apcs=interwork --split_sections -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Include -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ..\SenseBoard -I ..\SenseBoard\Hardware\Inc -I ..\SenseBoard\Models\Inc -I ..\User\Inc -I ..\ThirdParty --C99-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD-IC:\A_Apps\keil_kit\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\STM32F4xx_HAL_Driver\Inc-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F427xx -DUSE_HAL_DRIVER -DSTM32F427xx --C99-o .\outputjob\main.o --omf_browse .\outputjob\main.crf --depend .\outputjob\main.d)
+I (..\User\Inc\main.h)(0x5BFFEA64)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x65B9E660)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI\stm32f4xx_hal_conf.h)(0x58469BBA)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD\RTE_Components.h)(0x65EAB146)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f427xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmSimd.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x58545D26)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rng.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x65B9E540)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_usart.h)(0x58545D28)
+I (..\SenseBoard\Models\Inc\user_terminal.h)(0x58E42C86)
+I (..\SenseBoard\coliasSense_def.h)(0x58DD6158)
+I (..\SenseBoard\coliasSense_board.h)(0x5BFFEBC8)
+I (..\SenseBoard\CCMRAM_DEF.h)(0x58D7FA90)
+I (..\SenseBoard\Models\Inc\LGMD_model.h)(0x670258B5)
+I (..\SenseBoard\Hardware\Inc\coliasSense_interfaces.h)(0x5BFA801C)
+I (..\SenseBoard\Hardware\Inc\coliasSense_BIO.h)(0x58DE537A)
+I (..\SenseBoard\Hardware\Inc\coliasSense_CLED.h)(0x588A6F2A)
+I (..\SenseBoard\Hardware\Inc\coliasSense_UART.h)(0x58DD2128)
+I (..\SenseBoard\Hardware\Inc\coliasSense_Camera.h)(0x588A6F2A)
+I (..\SenseBoard\Hardware\Inc\coliasSense_Exbd.h)(0x58DE54DC)
+I (..\SenseBoard\Hardware\Inc\coliasSense_Motion.h)(0x5BF94C1C)
+I (..\SenseBoard\delay.h)(0x5BFFEC5E)
+I (..\SenseBoard\Models\Inc\coliasSense_LGMD.h)(0x670FB4AA)
+I (..\SenseBoard\Hardware\Inc\coliasSense_MPU9250.h)(0x58DE5576)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\string.h)(0x57F606B8)
+F (..\User\Src\stm32f4xx_it.c)(0x58C35512)(-c --cpu Cortex-M4.fp -D__MICROLIB -g -O1 -Otime --apcs=interwork --split_sections -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Include -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ..\SenseBoard -I ..\SenseBoard\Hardware\Inc -I ..\SenseBoard\Models\Inc -I ..\User\Inc -I ..\ThirdParty --C99-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD-IC:\A_Apps\keil_kit\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\STM32F4xx_HAL_Driver\Inc-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F427xx -DUSE_HAL_DRIVER -DSTM32F427xx --C99-o .\outputjob\stm32f4xx_it.o --omf_browse .\outputjob\stm32f4xx_it.crf --depend .\outputjob\stm32f4xx_it.d)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x65B9E660)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI\stm32f4xx_hal_conf.h)(0x58469BBA)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD\RTE_Components.h)(0x65EAB146)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f427xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmSimd.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x58545D26)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rng.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x65B9E540)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_usart.h)(0x58545D28)
+I (..\User\Inc\stm32f4xx_it.h)(0x58545D2A)
+I (..\User\Inc\main.h)(0x5BFFEA64)
+I (..\SenseBoard\delay.h)(0x5BFFEC5E)
+I (..\SenseBoard\coliasSense_def.h)(0x58DD6158)
+I (..\SenseBoard\coliasSense_board.h)(0x5BFFEBC8)
+I (..\SenseBoard\CCMRAM_DEF.h)(0x58D7FA90)
+I (..\SenseBoard\Models\Inc\LGMD_model.h)(0x670258B5)
+I (..\SenseBoard\Hardware\Inc\coliasSense_interfaces.h)(0x5BFA801C)
+I (..\SenseBoard\Hardware\Inc\coliasSense_BIO.h)(0x58DE537A)
+I (..\SenseBoard\Hardware\Inc\coliasSense_CLED.h)(0x588A6F2A)
+I (..\SenseBoard\Hardware\Inc\coliasSense_UART.h)(0x58DD2128)
+I (..\SenseBoard\Hardware\Inc\coliasSense_Camera.h)(0x588A6F2A)
+I (..\SenseBoard\Hardware\Inc\coliasSense_Exbd.h)(0x58DE54DC)
+I (..\SenseBoard\Hardware\Inc\coliasSense_Motion.h)(0x5BF94C1C)
+I (..\SenseBoard\Models\Inc\coliasSense_LGMD.h)(0x670FB4AA)
+I (..\SenseBoard\Hardware\Inc\coliasSense_MPU9250.h)(0x58DE5576)
+I (..\SenseBoard\Models\Inc\user_terminal.h)(0x58E42C86)
+F (..\User\Src\misc.c)(0x58545D2A)(-c --cpu Cortex-M4.fp -D__MICROLIB -g -O1 -Otime --apcs=interwork --split_sections -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Include -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ..\SenseBoard -I ..\SenseBoard\Hardware\Inc -I ..\SenseBoard\Models\Inc -I ..\User\Inc -I ..\ThirdParty --C99-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD-IC:\A_Apps\keil_kit\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\STM32F4xx_HAL_Driver\Inc-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F427xx -DUSE_HAL_DRIVER -DSTM32F427xx --C99-o .\outputjob\misc.o --omf_browse .\outputjob\misc.crf --depend .\outputjob\misc.d)
+I (..\User\Inc\misc.h)(0x58545D2A)
+I (..\User\Inc\main.h)(0x5BFFEA64)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x65B9E660)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI\stm32f4xx_hal_conf.h)(0x58469BBA)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD\RTE_Components.h)(0x65EAB146)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f427xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmSimd.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x58545D26)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rng.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x65B9E540)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_usart.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\math.h)(0x57F606B6)
+F (..\SenseBoard\CCMRAM_DEF.c)(0x58D7FA92)(-c --cpu Cortex-M4.fp -D__MICROLIB -g -O1 -Otime --apcs=interwork --split_sections -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Include -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ..\SenseBoard -I ..\SenseBoard\Hardware\Inc -I ..\SenseBoard\Models\Inc -I ..\User\Inc -I ..\ThirdParty --C99-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD-IC:\A_Apps\keil_kit\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\STM32F4xx_HAL_Driver\Inc-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F427xx -DUSE_HAL_DRIVER -DSTM32F427xx --C99-o .\outputjob\ccmram_def.o --omf_browse .\outputjob\ccmram_def.crf --depend .\outputjob\ccmram_def.d)
+I (..\SenseBoard\CCMRAM_DEF.h)(0x58D7FA90)
+I (..\User\Inc\main.h)(0x5BFFEA64)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x65B9E660)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI\stm32f4xx_hal_conf.h)(0x58469BBA)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD\RTE_Components.h)(0x65EAB146)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f427xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmSimd.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x58545D26)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rng.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x65B9E540)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_usart.h)(0x58545D28)
+I (..\SenseBoard\Models\Inc\LGMD_model.h)(0x670258B5)
+F (..\SenseBoard\coliasSense_board.c)(0x65EAAC36)(-c --cpu Cortex-M4.fp -D__MICROLIB -g -O1 -Otime --apcs=interwork --split_sections -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Include -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ..\SenseBoard -I ..\SenseBoard\Hardware\Inc -I ..\SenseBoard\Models\Inc -I ..\User\Inc -I ..\ThirdParty --C99-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD-IC:\A_Apps\keil_kit\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\STM32F4xx_HAL_Driver\Inc-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F427xx -DUSE_HAL_DRIVER -DSTM32F427xx --C99-o .\outputjob\coliassense_board.o --omf_browse .\outputjob\coliassense_board.crf --depend .\outputjob\coliassense_board.d)
+I (..\SenseBoard\coliasSense_board.h)(0x5BFFEBC8)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x65B9E660)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI\stm32f4xx_hal_conf.h)(0x58469BBA)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD\RTE_Components.h)(0x65EAB146)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f427xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmSimd.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x58545D26)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rng.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x65B9E540)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_usart.h)(0x58545D28)
+I (..\SenseBoard\coliasSense_def.h)(0x58DD6158)
+I (..\SenseBoard\CCMRAM_DEF.h)(0x58D7FA90)
+I (..\User\Inc\main.h)(0x5BFFEA64)
+I (..\SenseBoard\Models\Inc\LGMD_model.h)(0x670258B5)
+I (..\SenseBoard\Hardware\Inc\coliasSense_interfaces.h)(0x5BFA801C)
+I (..\SenseBoard\Hardware\Inc\coliasSense_BIO.h)(0x58DE537A)
+I (..\SenseBoard\Hardware\Inc\coliasSense_CLED.h)(0x588A6F2A)
+I (..\SenseBoard\Hardware\Inc\coliasSense_UART.h)(0x58DD2128)
+I (..\SenseBoard\Hardware\Inc\coliasSense_Camera.h)(0x588A6F2A)
+I (..\SenseBoard\Hardware\Inc\coliasSense_Exbd.h)(0x58DE54DC)
+I (..\SenseBoard\Hardware\Inc\coliasSense_Motion.h)(0x5BF94C1C)
+I (..\SenseBoard\delay.h)(0x5BFFEC5E)
+I (..\SenseBoard\Models\Inc\coliasSense_LGMD.h)(0x670FB4AA)
+I (..\SenseBoard\Hardware\Inc\coliasSense_MPU9250.h)(0x58DE5576)
+F (..\SenseBoard\Hardware\Src\coliasSense_Camera.c)(0x6678E718)(-c --cpu Cortex-M4.fp -D__MICROLIB -g -O1 -Otime --apcs=interwork --split_sections -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Include -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ..\SenseBoard -I ..\SenseBoard\Hardware\Inc -I ..\SenseBoard\Models\Inc -I ..\User\Inc -I ..\ThirdParty --C99-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD-IC:\A_Apps\keil_kit\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\STM32F4xx_HAL_Driver\Inc-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F427xx -DUSE_HAL_DRIVER -DSTM32F427xx --C99-o .\outputjob\coliassense_camera.o --omf_browse .\outputjob\coliassense_camera.crf --depend .\outputjob\coliassense_camera.d)
+I (..\SenseBoard\Hardware\Inc\coliasSense_Camera.h)(0x588A6F2A)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x65B9E660)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI\stm32f4xx_hal_conf.h)(0x58469BBA)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD\RTE_Components.h)(0x65EAB146)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f427xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmSimd.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x58545D26)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rng.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x65B9E540)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_usart.h)(0x58545D28)
+I (..\SenseBoard\coliasSense_def.h)(0x58DD6158)
+I (..\SenseBoard\Hardware\Inc\coliasSense_BIO.h)(0x58DE537A)
+I (..\SenseBoard\Hardware\Inc\coliasSense_interfaces.h)(0x5BFA801C)
+I (..\SenseBoard\coliasSense_board.h)(0x5BFFEBC8)
+I (..\SenseBoard\CCMRAM_DEF.h)(0x58D7FA90)
+I (..\User\Inc\main.h)(0x5BFFEA64)
+I (..\SenseBoard\Models\Inc\LGMD_model.h)(0x670258B5)
+I (..\SenseBoard\Hardware\Inc\coliasSense_CLED.h)(0x588A6F2A)
+I (..\SenseBoard\Hardware\Inc\coliasSense_UART.h)(0x58DD2128)
+I (..\SenseBoard\Hardware\Inc\coliasSense_Exbd.h)(0x58DE54DC)
+I (..\SenseBoard\Hardware\Inc\coliasSense_Motion.h)(0x5BF94C1C)
+I (..\SenseBoard\delay.h)(0x5BFFEC5E)
+I (..\SenseBoard\Models\Inc\coliasSense_LGMD.h)(0x670FB4AA)
+I (..\SenseBoard\Hardware\Inc\coliasSense_MPU9250.h)(0x58DE5576)
+F (..\SenseBoard\Hardware\Src\coliasSense_CLED.c)(0x588A6F2A)(-c --cpu Cortex-M4.fp -D__MICROLIB -g -O1 -Otime --apcs=interwork --split_sections -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Include -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ..\SenseBoard -I ..\SenseBoard\Hardware\Inc -I ..\SenseBoard\Models\Inc -I ..\User\Inc -I ..\ThirdParty --C99-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD-IC:\A_Apps\keil_kit\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\STM32F4xx_HAL_Driver\Inc-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F427xx -DUSE_HAL_DRIVER -DSTM32F427xx --C99-o .\outputjob\coliassense_cled.o --omf_browse .\outputjob\coliassense_cled.crf --depend .\outputjob\coliassense_cled.d)
+I (..\SenseBoard\Hardware\Inc\coliasSense_CLED.h)(0x588A6F2A)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x65B9E660)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI\stm32f4xx_hal_conf.h)(0x58469BBA)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD\RTE_Components.h)(0x65EAB146)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f427xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmSimd.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x58545D26)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rng.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x65B9E540)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_usart.h)(0x58545D28)
+I (..\SenseBoard\coliasSense_def.h)(0x58DD6158)
+I (..\SenseBoard\coliasSense_board.h)(0x5BFFEBC8)
+I (..\SenseBoard\CCMRAM_DEF.h)(0x58D7FA90)
+I (..\User\Inc\main.h)(0x5BFFEA64)
+I (..\SenseBoard\Models\Inc\LGMD_model.h)(0x670258B5)
+I (..\SenseBoard\Hardware\Inc\coliasSense_interfaces.h)(0x5BFA801C)
+I (..\SenseBoard\Hardware\Inc\coliasSense_BIO.h)(0x58DE537A)
+I (..\SenseBoard\Hardware\Inc\coliasSense_UART.h)(0x58DD2128)
+I (..\SenseBoard\Hardware\Inc\coliasSense_Camera.h)(0x588A6F2A)
+I (..\SenseBoard\Hardware\Inc\coliasSense_Exbd.h)(0x58DE54DC)
+I (..\SenseBoard\Hardware\Inc\coliasSense_Motion.h)(0x5BF94C1C)
+I (..\SenseBoard\delay.h)(0x5BFFEC5E)
+I (..\SenseBoard\Models\Inc\coliasSense_LGMD.h)(0x670FB4AA)
+I (..\SenseBoard\Hardware\Inc\coliasSense_MPU9250.h)(0x58DE5576)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\math.h)(0x57F606B6)
+I (../Drivers/CMSIS/Include/arm_math.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\string.h)(0x57F606B8)
+F (..\SenseBoard\Hardware\Src\coliasSense_interfaces.c)(0x588A6F2A)(-c --cpu Cortex-M4.fp -D__MICROLIB -g -O1 -Otime --apcs=interwork --split_sections -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Include -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ..\SenseBoard -I ..\SenseBoard\Hardware\Inc -I ..\SenseBoard\Models\Inc -I ..\User\Inc -I ..\ThirdParty --C99-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD-IC:\A_Apps\keil_kit\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\STM32F4xx_HAL_Driver\Inc-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F427xx -DUSE_HAL_DRIVER -DSTM32F427xx --C99-o .\outputjob\coliassense_interfaces.o --omf_browse .\outputjob\coliassense_interfaces.crf --depend .\outputjob\coliassense_interfaces.d)
+I (..\SenseBoard\Hardware\Inc\coliasSense_interfaces.h)(0x5BFA801C)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x65B9E660)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI\stm32f4xx_hal_conf.h)(0x58469BBA)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD\RTE_Components.h)(0x65EAB146)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f427xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmSimd.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x58545D26)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rng.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x65B9E540)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_usart.h)(0x58545D28)
+I (..\SenseBoard\coliasSense_def.h)(0x58DD6158)
+I (..\SenseBoard\Hardware\Inc\coliasSense_BIO.h)(0x58DE537A)
+I (..\SenseBoard\coliasSense_board.h)(0x5BFFEBC8)
+I (..\SenseBoard\CCMRAM_DEF.h)(0x58D7FA90)
+I (..\User\Inc\main.h)(0x5BFFEA64)
+I (..\SenseBoard\Models\Inc\LGMD_model.h)(0x670258B5)
+I (..\SenseBoard\Hardware\Inc\coliasSense_CLED.h)(0x588A6F2A)
+I (..\SenseBoard\Hardware\Inc\coliasSense_UART.h)(0x58DD2128)
+I (..\SenseBoard\Hardware\Inc\coliasSense_Camera.h)(0x588A6F2A)
+I (..\SenseBoard\Hardware\Inc\coliasSense_Exbd.h)(0x58DE54DC)
+I (..\SenseBoard\Hardware\Inc\coliasSense_Motion.h)(0x5BF94C1C)
+I (..\SenseBoard\delay.h)(0x5BFFEC5E)
+I (..\SenseBoard\Models\Inc\coliasSense_LGMD.h)(0x670FB4AA)
+I (..\SenseBoard\Hardware\Inc\coliasSense_MPU9250.h)(0x58DE5576)
+F (..\SenseBoard\Hardware\Src\coliasSense_UART.c)(0x58DD5EE6)(-c --cpu Cortex-M4.fp -D__MICROLIB -g -O1 -Otime --apcs=interwork --split_sections -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Include -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ..\SenseBoard -I ..\SenseBoard\Hardware\Inc -I ..\SenseBoard\Models\Inc -I ..\User\Inc -I ..\ThirdParty --C99-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD-IC:\A_Apps\keil_kit\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\STM32F4xx_HAL_Driver\Inc-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F427xx -DUSE_HAL_DRIVER -DSTM32F427xx --C99-o .\outputjob\coliassense_uart.o --omf_browse .\outputjob\coliassense_uart.crf --depend .\outputjob\coliassense_uart.d)
+I (..\SenseBoard\Hardware\Inc\coliasSense_UART.h)(0x58DD2128)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x65B9E660)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI\stm32f4xx_hal_conf.h)(0x58469BBA)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD\RTE_Components.h)(0x65EAB146)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f427xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmSimd.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x58545D26)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rng.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x65B9E540)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_usart.h)(0x58545D28)
+I (..\SenseBoard\coliasSense_def.h)(0x58DD6158)
+I (..\SenseBoard\coliasSense_board.h)(0x5BFFEBC8)
+I (..\SenseBoard\CCMRAM_DEF.h)(0x58D7FA90)
+I (..\User\Inc\main.h)(0x5BFFEA64)
+I (..\SenseBoard\Models\Inc\LGMD_model.h)(0x670258B5)
+I (..\SenseBoard\Hardware\Inc\coliasSense_interfaces.h)(0x5BFA801C)
+I (..\SenseBoard\Hardware\Inc\coliasSense_BIO.h)(0x58DE537A)
+I (..\SenseBoard\Hardware\Inc\coliasSense_CLED.h)(0x588A6F2A)
+I (..\SenseBoard\Hardware\Inc\coliasSense_Camera.h)(0x588A6F2A)
+I (..\SenseBoard\Hardware\Inc\coliasSense_Exbd.h)(0x58DE54DC)
+I (..\SenseBoard\Hardware\Inc\coliasSense_Motion.h)(0x5BF94C1C)
+I (..\SenseBoard\delay.h)(0x5BFFEC5E)
+I (..\SenseBoard\Models\Inc\coliasSense_LGMD.h)(0x670FB4AA)
+I (..\SenseBoard\Hardware\Inc\coliasSense_MPU9250.h)(0x58DE5576)
+F (..\SenseBoard\delay.c)(0x58DD611A)(-c --cpu Cortex-M4.fp -D__MICROLIB -g -O1 -Otime --apcs=interwork --split_sections -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Include -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ..\SenseBoard -I ..\SenseBoard\Hardware\Inc -I ..\SenseBoard\Models\Inc -I ..\User\Inc -I ..\ThirdParty --C99-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD-IC:\A_Apps\keil_kit\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\STM32F4xx_HAL_Driver\Inc-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F427xx -DUSE_HAL_DRIVER -DSTM32F427xx --C99-o .\outputjob\delay.o --omf_browse .\outputjob\delay.crf --depend .\outputjob\delay.d)
+I (..\SenseBoard\delay.h)(0x5BFFEC5E)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x65B9E660)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI\stm32f4xx_hal_conf.h)(0x58469BBA)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD\RTE_Components.h)(0x65EAB146)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f427xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmSimd.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x58545D26)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rng.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x65B9E540)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_usart.h)(0x58545D28)
+I (..\SenseBoard\coliasSense_def.h)(0x58DD6158)
+F (..\SenseBoard\Hardware\Src\coliasSense_BIO.c)(0x65B9E540)(-c --cpu Cortex-M4.fp -D__MICROLIB -g -O1 -Otime --apcs=interwork --split_sections -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Include -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ..\SenseBoard -I ..\SenseBoard\Hardware\Inc -I ..\SenseBoard\Models\Inc -I ..\User\Inc -I ..\ThirdParty --C99-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD-IC:\A_Apps\keil_kit\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\STM32F4xx_HAL_Driver\Inc-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F427xx -DUSE_HAL_DRIVER -DSTM32F427xx --C99-o .\outputjob\coliassense_bio.o --omf_browse .\outputjob\coliassense_bio.crf --depend .\outputjob\coliassense_bio.d)
+I (..\SenseBoard\Hardware\Inc\coliasSense_BIO.h)(0x58DE537A)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x65B9E660)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI\stm32f4xx_hal_conf.h)(0x58469BBA)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD\RTE_Components.h)(0x65EAB146)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f427xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmSimd.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x58545D26)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rng.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x65B9E540)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_usart.h)(0x58545D28)
+I (..\SenseBoard\coliasSense_def.h)(0x58DD6158)
+I (..\SenseBoard\coliasSense_board.h)(0x5BFFEBC8)
+I (..\SenseBoard\CCMRAM_DEF.h)(0x58D7FA90)
+I (..\User\Inc\main.h)(0x5BFFEA64)
+I (..\SenseBoard\Models\Inc\LGMD_model.h)(0x670258B5)
+I (..\SenseBoard\Hardware\Inc\coliasSense_interfaces.h)(0x5BFA801C)
+I (..\SenseBoard\Hardware\Inc\coliasSense_CLED.h)(0x588A6F2A)
+I (..\SenseBoard\Hardware\Inc\coliasSense_UART.h)(0x58DD2128)
+I (..\SenseBoard\Hardware\Inc\coliasSense_Camera.h)(0x588A6F2A)
+I (..\SenseBoard\Hardware\Inc\coliasSense_Exbd.h)(0x58DE54DC)
+I (..\SenseBoard\Hardware\Inc\coliasSense_Motion.h)(0x5BF94C1C)
+I (..\SenseBoard\delay.h)(0x5BFFEC5E)
+I (..\SenseBoard\Models\Inc\coliasSense_LGMD.h)(0x670FB4AA)
+I (..\SenseBoard\Hardware\Inc\coliasSense_MPU9250.h)(0x58DE5576)
+F (..\SenseBoard\Hardware\Src\coliasSence_Motion.c)(0x671C94B6)(-c --cpu Cortex-M4.fp -D__MICROLIB -g -O1 -Otime --apcs=interwork --split_sections -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Include -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ..\SenseBoard -I ..\SenseBoard\Hardware\Inc -I ..\SenseBoard\Models\Inc -I ..\User\Inc -I ..\ThirdParty --C99-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD-IC:\A_Apps\keil_kit\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\STM32F4xx_HAL_Driver\Inc-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F427xx -DUSE_HAL_DRIVER -DSTM32F427xx --C99-o .\outputjob\coliassence_motion.o --omf_browse .\outputjob\coliassence_motion.crf --depend .\outputjob\coliassence_motion.d)
+I (..\SenseBoard\coliasSense_board.h)(0x5BFFEBC8)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x65B9E660)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI\stm32f4xx_hal_conf.h)(0x58469BBA)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD\RTE_Components.h)(0x65EAB146)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f427xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmSimd.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x58545D26)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rng.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x65B9E540)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_usart.h)(0x58545D28)
+I (..\SenseBoard\coliasSense_def.h)(0x58DD6158)
+I (..\SenseBoard\CCMRAM_DEF.h)(0x58D7FA90)
+I (..\User\Inc\main.h)(0x5BFFEA64)
+I (..\SenseBoard\Models\Inc\LGMD_model.h)(0x670258B5)
+I (..\SenseBoard\Hardware\Inc\coliasSense_interfaces.h)(0x5BFA801C)
+I (..\SenseBoard\Hardware\Inc\coliasSense_BIO.h)(0x58DE537A)
+I (..\SenseBoard\Hardware\Inc\coliasSense_CLED.h)(0x588A6F2A)
+I (..\SenseBoard\Hardware\Inc\coliasSense_UART.h)(0x58DD2128)
+I (..\SenseBoard\Hardware\Inc\coliasSense_Camera.h)(0x588A6F2A)
+I (..\SenseBoard\Hardware\Inc\coliasSense_Exbd.h)(0x58DE54DC)
+I (..\SenseBoard\Hardware\Inc\coliasSense_Motion.h)(0x5BF94C1C)
+I (..\SenseBoard\delay.h)(0x5BFFEC5E)
+I (..\SenseBoard\Models\Inc\coliasSense_LGMD.h)(0x670FB4AA)
+I (..\SenseBoard\Hardware\Inc\coliasSense_MPU9250.h)(0x58DE5576)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\string.h)(0x57F606B8)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdlib.h)(0x57F606B8)
+F (..\SenseBoard\Hardware\Src\coliasSense_Exbd.c)(0x58DD5A2C)(-c --cpu Cortex-M4.fp -D__MICROLIB -g -O1 -Otime --apcs=interwork --split_sections -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Include -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ..\SenseBoard -I ..\SenseBoard\Hardware\Inc -I ..\SenseBoard\Models\Inc -I ..\User\Inc -I ..\ThirdParty --C99-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD-IC:\A_Apps\keil_kit\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\STM32F4xx_HAL_Driver\Inc-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F427xx -DUSE_HAL_DRIVER -DSTM32F427xx --C99-o .\outputjob\coliassense_exbd.o --omf_browse .\outputjob\coliassense_exbd.crf --depend .\outputjob\coliassense_exbd.d)
+I (..\SenseBoard\Hardware\Inc\coliasSense_Exbd.h)(0x58DE54DC)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x65B9E660)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI\stm32f4xx_hal_conf.h)(0x58469BBA)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD\RTE_Components.h)(0x65EAB146)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f427xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmSimd.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x58545D26)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rng.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x65B9E540)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_usart.h)(0x58545D28)
+I (..\SenseBoard\coliasSense_def.h)(0x58DD6158)
+I (..\SenseBoard\coliasSense_board.h)(0x5BFFEBC8)
+I (..\SenseBoard\CCMRAM_DEF.h)(0x58D7FA90)
+I (..\User\Inc\main.h)(0x5BFFEA64)
+I (..\SenseBoard\Models\Inc\LGMD_model.h)(0x670258B5)
+I (..\SenseBoard\Hardware\Inc\coliasSense_interfaces.h)(0x5BFA801C)
+I (..\SenseBoard\Hardware\Inc\coliasSense_BIO.h)(0x58DE537A)
+I (..\SenseBoard\Hardware\Inc\coliasSense_CLED.h)(0x588A6F2A)
+I (..\SenseBoard\Hardware\Inc\coliasSense_UART.h)(0x58DD2128)
+I (..\SenseBoard\Hardware\Inc\coliasSense_Camera.h)(0x588A6F2A)
+I (..\SenseBoard\Hardware\Inc\coliasSense_Motion.h)(0x5BF94C1C)
+I (..\SenseBoard\delay.h)(0x5BFFEC5E)
+I (..\SenseBoard\Models\Inc\coliasSense_LGMD.h)(0x670FB4AA)
+I (..\SenseBoard\Hardware\Inc\coliasSense_MPU9250.h)(0x58DE5576)
+F (..\SenseBoard\Hardware\Src\coliasSense_MPU9250.c)(0x58DD5EAC)(-c --cpu Cortex-M4.fp -D__MICROLIB -g -O1 -Otime --apcs=interwork --split_sections -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Include -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ..\SenseBoard -I ..\SenseBoard\Hardware\Inc -I ..\SenseBoard\Models\Inc -I ..\User\Inc -I ..\ThirdParty --C99-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD-IC:\A_Apps\keil_kit\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\STM32F4xx_HAL_Driver\Inc-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F427xx -DUSE_HAL_DRIVER -DSTM32F427xx --C99-o .\outputjob\coliassense_mpu9250.o --omf_browse .\outputjob\coliassense_mpu9250.crf --depend .\outputjob\coliassense_mpu9250.d)
+I (..\SenseBoard\Hardware\Inc\coliasSense_MPU9250.h)(0x58DE5576)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x65B9E660)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI\stm32f4xx_hal_conf.h)(0x58469BBA)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD\RTE_Components.h)(0x65EAB146)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f427xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmSimd.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x58545D26)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rng.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x65B9E540)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_usart.h)(0x58545D28)
+I (..\SenseBoard\coliasSense_def.h)(0x58DD6158)
+I (..\SenseBoard\Hardware\Inc\coliasSense_interfaces.h)(0x5BFA801C)
+I (..\SenseBoard\Hardware\Inc\coliasSense_BIO.h)(0x58DE537A)
+I (..\SenseBoard\coliasSense_board.h)(0x5BFFEBC8)
+I (..\SenseBoard\CCMRAM_DEF.h)(0x58D7FA90)
+I (..\User\Inc\main.h)(0x5BFFEA64)
+I (..\SenseBoard\Models\Inc\LGMD_model.h)(0x670258B5)
+I (..\SenseBoard\Hardware\Inc\coliasSense_CLED.h)(0x588A6F2A)
+I (..\SenseBoard\Hardware\Inc\coliasSense_UART.h)(0x58DD2128)
+I (..\SenseBoard\Hardware\Inc\coliasSense_Camera.h)(0x588A6F2A)
+I (..\SenseBoard\Hardware\Inc\coliasSense_Exbd.h)(0x58DE54DC)
+I (..\SenseBoard\Hardware\Inc\coliasSense_Motion.h)(0x5BF94C1C)
+I (..\SenseBoard\delay.h)(0x5BFFEC5E)
+I (..\SenseBoard\Models\Inc\coliasSense_LGMD.h)(0x670FB4AA)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\math.h)(0x57F606B6)
+F (..\SenseBoard\RegAccess.c)(0x588A6F2C)(-c --cpu Cortex-M4.fp -D__MICROLIB -g -O1 -Otime --apcs=interwork --split_sections -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Include -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ..\SenseBoard -I ..\SenseBoard\Hardware\Inc -I ..\SenseBoard\Models\Inc -I ..\User\Inc -I ..\ThirdParty --C99-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD-IC:\A_Apps\keil_kit\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\STM32F4xx_HAL_Driver\Inc-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F427xx -DUSE_HAL_DRIVER -DSTM32F427xx --C99-o .\outputjob\regaccess.o --omf_browse .\outputjob\regaccess.crf --depend .\outputjob\regaccess.d)
+I (..\SenseBoard\RegAccess.h)(0x588A6F2C)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x65B9E660)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI\stm32f4xx_hal_conf.h)(0x58469BBA)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD\RTE_Components.h)(0x65EAB146)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f427xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmSimd.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x58545D26)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rng.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x65B9E540)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_usart.h)(0x58545D28)
+I (..\SenseBoard\coliasSense_def.h)(0x58DD6158)
+I (..\SenseBoard\coliasSense_board.h)(0x5BFFEBC8)
+I (..\SenseBoard\CCMRAM_DEF.h)(0x58D7FA90)
+I (..\User\Inc\main.h)(0x5BFFEA64)
+I (..\SenseBoard\Models\Inc\LGMD_model.h)(0x670258B5)
+I (..\SenseBoard\Hardware\Inc\coliasSense_interfaces.h)(0x5BFA801C)
+I (..\SenseBoard\Hardware\Inc\coliasSense_BIO.h)(0x58DE537A)
+I (..\SenseBoard\Hardware\Inc\coliasSense_CLED.h)(0x588A6F2A)
+I (..\SenseBoard\Hardware\Inc\coliasSense_UART.h)(0x58DD2128)
+I (..\SenseBoard\Hardware\Inc\coliasSense_Camera.h)(0x588A6F2A)
+I (..\SenseBoard\Hardware\Inc\coliasSense_Exbd.h)(0x58DE54DC)
+I (..\SenseBoard\Hardware\Inc\coliasSense_Motion.h)(0x5BF94C1C)
+I (..\SenseBoard\delay.h)(0x5BFFEC5E)
+I (..\SenseBoard\Models\Inc\coliasSense_LGMD.h)(0x670FB4AA)
+I (..\SenseBoard\Hardware\Inc\coliasSense_MPU9250.h)(0x58DE5576)
+F (..\SenseBoard\Models\Src\user_terminal.c)(0x66DD170F)(-c --cpu Cortex-M4.fp -D__MICROLIB -g -O1 -Otime --apcs=interwork --split_sections -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Include -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ..\SenseBoard -I ..\SenseBoard\Hardware\Inc -I ..\SenseBoard\Models\Inc -I ..\User\Inc -I ..\ThirdParty --C99-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD-IC:\A_Apps\keil_kit\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\STM32F4xx_HAL_Driver\Inc-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F427xx -DUSE_HAL_DRIVER -DSTM32F427xx --C99-o .\outputjob\user_terminal.o --omf_browse .\outputjob\user_terminal.crf --depend .\outputjob\user_terminal.d)
+I (..\SenseBoard\Models\Inc\user_terminal.h)(0x58E42C86)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x65B9E660)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI\stm32f4xx_hal_conf.h)(0x58469BBA)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD\RTE_Components.h)(0x65EAB146)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f427xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmSimd.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x58545D26)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rng.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x65B9E540)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_usart.h)(0x58545D28)
+I (..\SenseBoard\coliasSense_def.h)(0x58DD6158)
+I (..\SenseBoard\Models\Inc\user_terminal_private.h)(0x58DD89BC)
+I (..\SenseBoard\coliasSense_board.h)(0x5BFFEBC8)
+I (..\SenseBoard\CCMRAM_DEF.h)(0x58D7FA90)
+I (..\User\Inc\main.h)(0x5BFFEA64)
+I (..\SenseBoard\Models\Inc\LGMD_model.h)(0x670258B5)
+I (..\SenseBoard\Hardware\Inc\coliasSense_interfaces.h)(0x5BFA801C)
+I (..\SenseBoard\Hardware\Inc\coliasSense_BIO.h)(0x58DE537A)
+I (..\SenseBoard\Hardware\Inc\coliasSense_CLED.h)(0x588A6F2A)
+I (..\SenseBoard\Hardware\Inc\coliasSense_UART.h)(0x58DD2128)
+I (..\SenseBoard\Hardware\Inc\coliasSense_Camera.h)(0x588A6F2A)
+I (..\SenseBoard\Hardware\Inc\coliasSense_Exbd.h)(0x58DE54DC)
+I (..\SenseBoard\Hardware\Inc\coliasSense_Motion.h)(0x5BF94C1C)
+I (..\SenseBoard\delay.h)(0x5BFFEC5E)
+I (..\SenseBoard\Models\Inc\coliasSense_LGMD.h)(0x670FB4AA)
+I (..\SenseBoard\Hardware\Inc\coliasSense_MPU9250.h)(0x58DE5576)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdlib.h)(0x57F606B8)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\string.h)(0x57F606B8)
+F (..\SenseBoard\Models\Src\coliasSense_LGMD.c)(0x671BA0A6)(-c --cpu Cortex-M4.fp -D__MICROLIB -g -O1 -Otime --apcs=interwork --split_sections -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Include -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ..\SenseBoard -I ..\SenseBoard\Hardware\Inc -I ..\SenseBoard\Models\Inc -I ..\User\Inc -I ..\ThirdParty --C99-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD-IC:\A_Apps\keil_kit\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\STM32F4xx_HAL_Driver\Inc-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F427xx -DUSE_HAL_DRIVER -DSTM32F427xx --C99-o .\outputjob\coliassense_lgmd.o --omf_browse .\outputjob\coliassense_lgmd.crf --depend .\outputjob\coliassense_lgmd.d)
+I (..\SenseBoard\Models\Inc\coliasSense_LGMD.h)(0x670FB4AA)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x65B9E660)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI\stm32f4xx_hal_conf.h)(0x58469BBA)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD\RTE_Components.h)(0x65EAB146)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f427xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmSimd.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x58545D26)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rng.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x65B9E540)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_usart.h)(0x58545D28)
+I (..\SenseBoard\coliasSense_def.h)(0x58DD6158)
+I (..\SenseBoard\Models\Inc\LGMD_model.h)(0x670258B5)
+I (..\SenseBoard\Hardware\Inc\coliasSense_BIO.h)(0x58DE537A)
+I (..\SenseBoard\Hardware\Inc\coliasSense_Camera.h)(0x588A6F2A)
+I (..\SenseBoard\Hardware\Inc\coliasSense_interfaces.h)(0x5BFA801C)
+I (..\SenseBoard\coliasSense_board.h)(0x5BFFEBC8)
+I (..\SenseBoard\CCMRAM_DEF.h)(0x58D7FA90)
+I (..\User\Inc\main.h)(0x5BFFEA64)
+I (..\SenseBoard\Hardware\Inc\coliasSense_CLED.h)(0x588A6F2A)
+I (..\SenseBoard\Hardware\Inc\coliasSense_UART.h)(0x58DD2128)
+I (..\SenseBoard\Hardware\Inc\coliasSense_Exbd.h)(0x58DE54DC)
+I (..\SenseBoard\Hardware\Inc\coliasSense_Motion.h)(0x5BF94C1C)
+I (..\SenseBoard\delay.h)(0x5BFFEC5E)
+I (..\SenseBoard\Hardware\Inc\coliasSense_MPU9250.h)(0x58DE5576)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\math.h)(0x57F606B6)
+I (../Drivers/CMSIS/Include/arm_math.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\string.h)(0x57F606B8)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdlib.h)(0x57F606B8)
+F (C:\A_Apps\keil_kit\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Lib\ARM\arm_cortexM4lf_math.lib)(0x582539E0)()
+F (C:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal.c)(0x5730635C)(-c --cpu Cortex-M4.fp -D__MICROLIB -g -O1 -Otime --apcs=interwork --split_sections -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Include -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ..\SenseBoard -I ..\SenseBoard\Hardware\Inc -I ..\SenseBoard\Models\Inc -I ..\User\Inc -I ..\ThirdParty --C99-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD-IC:\A_Apps\keil_kit\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\STM32F4xx_HAL_Driver\Inc-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F427xx -DUSE_HAL_DRIVER -DSTM32F427xx --C99-o .\outputjob\stm32f4xx_hal.o --omf_browse .\outputjob\stm32f4xx_hal.crf --depend .\outputjob\stm32f4xx_hal.d)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x65B9E660)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI\stm32f4xx_hal_conf.h)(0x58469BBA)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD\RTE_Components.h)(0x65EAB146)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f427xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmSimd.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x58545D26)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rng.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x65B9E540)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_usart.h)(0x58545D28)
+F (C:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_cortex.c)(0x5730635C)(-c --cpu Cortex-M4.fp -D__MICROLIB -g -O1 -Otime --apcs=interwork --split_sections -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Include -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ..\SenseBoard -I ..\SenseBoard\Hardware\Inc -I ..\SenseBoard\Models\Inc -I ..\User\Inc -I ..\ThirdParty --C99-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD-IC:\A_Apps\keil_kit\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\STM32F4xx_HAL_Driver\Inc-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F427xx -DUSE_HAL_DRIVER -DSTM32F427xx --C99-o .\outputjob\stm32f4xx_hal_cortex.o --omf_browse .\outputjob\stm32f4xx_hal_cortex.crf --depend .\outputjob\stm32f4xx_hal_cortex.d)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x65B9E660)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI\stm32f4xx_hal_conf.h)(0x58469BBA)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD\RTE_Components.h)(0x65EAB146)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f427xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmSimd.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x58545D26)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rng.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x65B9E540)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_usart.h)(0x58545D28)
+F (C:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_dcmi.c)(0x5730635E)(-c --cpu Cortex-M4.fp -D__MICROLIB -g -O1 -Otime --apcs=interwork --split_sections -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Include -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ..\SenseBoard -I ..\SenseBoard\Hardware\Inc -I ..\SenseBoard\Models\Inc -I ..\User\Inc -I ..\ThirdParty --C99-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD-IC:\A_Apps\keil_kit\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\STM32F4xx_HAL_Driver\Inc-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F427xx -DUSE_HAL_DRIVER -DSTM32F427xx --C99-o .\outputjob\stm32f4xx_hal_dcmi.o --omf_browse .\outputjob\stm32f4xx_hal_dcmi.crf --depend .\outputjob\stm32f4xx_hal_dcmi.d)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x65B9E660)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI\stm32f4xx_hal_conf.h)(0x58469BBA)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD\RTE_Components.h)(0x65EAB146)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f427xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmSimd.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x58545D26)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rng.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x65B9E540)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_usart.h)(0x58545D28)
+F (C:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_dcmi_ex.c)(0x5730635C)(-c --cpu Cortex-M4.fp -D__MICROLIB -g -O1 -Otime --apcs=interwork --split_sections -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Include -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ..\SenseBoard -I ..\SenseBoard\Hardware\Inc -I ..\SenseBoard\Models\Inc -I ..\User\Inc -I ..\ThirdParty --C99-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD-IC:\A_Apps\keil_kit\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\STM32F4xx_HAL_Driver\Inc-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F427xx -DUSE_HAL_DRIVER -DSTM32F427xx --C99-o .\outputjob\stm32f4xx_hal_dcmi_ex.o --omf_browse .\outputjob\stm32f4xx_hal_dcmi_ex.crf --depend .\outputjob\stm32f4xx_hal_dcmi_ex.d)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x65B9E660)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI\stm32f4xx_hal_conf.h)(0x58469BBA)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD\RTE_Components.h)(0x65EAB146)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f427xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmSimd.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x58545D26)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rng.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x65B9E540)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_usart.h)(0x58545D28)
+F (C:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_dma.c)(0x5730635C)(-c --cpu Cortex-M4.fp -D__MICROLIB -g -O1 -Otime --apcs=interwork --split_sections -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Include -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ..\SenseBoard -I ..\SenseBoard\Hardware\Inc -I ..\SenseBoard\Models\Inc -I ..\User\Inc -I ..\ThirdParty --C99-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD-IC:\A_Apps\keil_kit\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\STM32F4xx_HAL_Driver\Inc-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F427xx -DUSE_HAL_DRIVER -DSTM32F427xx --C99-o .\outputjob\stm32f4xx_hal_dma.o --omf_browse .\outputjob\stm32f4xx_hal_dma.crf --depend .\outputjob\stm32f4xx_hal_dma.d)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x65B9E660)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI\stm32f4xx_hal_conf.h)(0x58469BBA)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD\RTE_Components.h)(0x65EAB146)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f427xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmSimd.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x58545D26)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rng.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x65B9E540)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_usart.h)(0x58545D28)
+F (C:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_dma_ex.c)(0x5730635E)(-c --cpu Cortex-M4.fp -D__MICROLIB -g -O1 -Otime --apcs=interwork --split_sections -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Include -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ..\SenseBoard -I ..\SenseBoard\Hardware\Inc -I ..\SenseBoard\Models\Inc -I ..\User\Inc -I ..\ThirdParty --C99-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD-IC:\A_Apps\keil_kit\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\STM32F4xx_HAL_Driver\Inc-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F427xx -DUSE_HAL_DRIVER -DSTM32F427xx --C99-o .\outputjob\stm32f4xx_hal_dma_ex.o --omf_browse .\outputjob\stm32f4xx_hal_dma_ex.crf --depend .\outputjob\stm32f4xx_hal_dma_ex.d)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x65B9E660)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI\stm32f4xx_hal_conf.h)(0x58469BBA)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD\RTE_Components.h)(0x65EAB146)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f427xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmSimd.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x58545D26)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rng.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x65B9E540)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_usart.h)(0x58545D28)
+F (C:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_gpio.c)(0x5730635E)(-c --cpu Cortex-M4.fp -D__MICROLIB -g -O1 -Otime --apcs=interwork --split_sections -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Include -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ..\SenseBoard -I ..\SenseBoard\Hardware\Inc -I ..\SenseBoard\Models\Inc -I ..\User\Inc -I ..\ThirdParty --C99-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD-IC:\A_Apps\keil_kit\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\STM32F4xx_HAL_Driver\Inc-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F427xx -DUSE_HAL_DRIVER -DSTM32F427xx --C99-o .\outputjob\stm32f4xx_hal_gpio.o --omf_browse .\outputjob\stm32f4xx_hal_gpio.crf --depend .\outputjob\stm32f4xx_hal_gpio.d)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x65B9E660)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI\stm32f4xx_hal_conf.h)(0x58469BBA)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD\RTE_Components.h)(0x65EAB146)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f427xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmSimd.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x58545D26)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rng.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x65B9E540)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_usart.h)(0x58545D28)
+F (C:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_i2s.c)(0x5730635E)(-c --cpu Cortex-M4.fp -D__MICROLIB -g -O1 -Otime --apcs=interwork --split_sections -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Include -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ..\SenseBoard -I ..\SenseBoard\Hardware\Inc -I ..\SenseBoard\Models\Inc -I ..\User\Inc -I ..\ThirdParty --C99-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD-IC:\A_Apps\keil_kit\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\STM32F4xx_HAL_Driver\Inc-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F427xx -DUSE_HAL_DRIVER -DSTM32F427xx --C99-o .\outputjob\stm32f4xx_hal_i2s.o --omf_browse .\outputjob\stm32f4xx_hal_i2s.crf --depend .\outputjob\stm32f4xx_hal_i2s.d)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x65B9E660)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI\stm32f4xx_hal_conf.h)(0x58469BBA)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD\RTE_Components.h)(0x65EAB146)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f427xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmSimd.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x58545D26)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rng.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x65B9E540)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_usart.h)(0x58545D28)
+F (C:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_i2s_ex.c)(0x5730635E)(-c --cpu Cortex-M4.fp -D__MICROLIB -g -O1 -Otime --apcs=interwork --split_sections -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Include -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ..\SenseBoard -I ..\SenseBoard\Hardware\Inc -I ..\SenseBoard\Models\Inc -I ..\User\Inc -I ..\ThirdParty --C99-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD-IC:\A_Apps\keil_kit\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\STM32F4xx_HAL_Driver\Inc-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F427xx -DUSE_HAL_DRIVER -DSTM32F427xx --C99-o .\outputjob\stm32f4xx_hal_i2s_ex.o --omf_browse .\outputjob\stm32f4xx_hal_i2s_ex.crf --depend .\outputjob\stm32f4xx_hal_i2s_ex.d)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x65B9E660)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI\stm32f4xx_hal_conf.h)(0x58469BBA)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD\RTE_Components.h)(0x65EAB146)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f427xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmSimd.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x58545D26)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rng.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x65B9E540)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_usart.h)(0x58545D28)
+F (C:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_pwr.c)(0x5730635E)(-c --cpu Cortex-M4.fp -D__MICROLIB -g -O1 -Otime --apcs=interwork --split_sections -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Include -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ..\SenseBoard -I ..\SenseBoard\Hardware\Inc -I ..\SenseBoard\Models\Inc -I ..\User\Inc -I ..\ThirdParty --C99-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD-IC:\A_Apps\keil_kit\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\STM32F4xx_HAL_Driver\Inc-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F427xx -DUSE_HAL_DRIVER -DSTM32F427xx --C99-o .\outputjob\stm32f4xx_hal_pwr.o --omf_browse .\outputjob\stm32f4xx_hal_pwr.crf --depend .\outputjob\stm32f4xx_hal_pwr.d)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x65B9E660)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI\stm32f4xx_hal_conf.h)(0x58469BBA)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD\RTE_Components.h)(0x65EAB146)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f427xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmSimd.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x58545D26)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rng.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x65B9E540)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_usart.h)(0x58545D28)
+F (C:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_pwr_ex.c)(0x5730635E)(-c --cpu Cortex-M4.fp -D__MICROLIB -g -O1 -Otime --apcs=interwork --split_sections -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Include -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ..\SenseBoard -I ..\SenseBoard\Hardware\Inc -I ..\SenseBoard\Models\Inc -I ..\User\Inc -I ..\ThirdParty --C99-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD-IC:\A_Apps\keil_kit\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\STM32F4xx_HAL_Driver\Inc-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F427xx -DUSE_HAL_DRIVER -DSTM32F427xx --C99-o .\outputjob\stm32f4xx_hal_pwr_ex.o --omf_browse .\outputjob\stm32f4xx_hal_pwr_ex.crf --depend .\outputjob\stm32f4xx_hal_pwr_ex.d)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x65B9E660)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI\stm32f4xx_hal_conf.h)(0x58469BBA)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD\RTE_Components.h)(0x65EAB146)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f427xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmSimd.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x58545D26)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rng.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x65B9E540)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_usart.h)(0x58545D28)
+F (C:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_rcc.c)(0x5730635E)(-c --cpu Cortex-M4.fp -D__MICROLIB -g -O1 -Otime --apcs=interwork --split_sections -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Include -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ..\SenseBoard -I ..\SenseBoard\Hardware\Inc -I ..\SenseBoard\Models\Inc -I ..\User\Inc -I ..\ThirdParty --C99-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD-IC:\A_Apps\keil_kit\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\STM32F4xx_HAL_Driver\Inc-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F427xx -DUSE_HAL_DRIVER -DSTM32F427xx --C99-o .\outputjob\stm32f4xx_hal_rcc.o --omf_browse .\outputjob\stm32f4xx_hal_rcc.crf --depend .\outputjob\stm32f4xx_hal_rcc.d)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x65B9E660)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI\stm32f4xx_hal_conf.h)(0x58469BBA)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD\RTE_Components.h)(0x65EAB146)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f427xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmSimd.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x58545D26)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rng.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x65B9E540)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_usart.h)(0x58545D28)
+F (C:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_rcc_ex.c)(0x5730635E)(-c --cpu Cortex-M4.fp -D__MICROLIB -g -O1 -Otime --apcs=interwork --split_sections -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Include -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ..\SenseBoard -I ..\SenseBoard\Hardware\Inc -I ..\SenseBoard\Models\Inc -I ..\User\Inc -I ..\ThirdParty --C99-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD-IC:\A_Apps\keil_kit\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\STM32F4xx_HAL_Driver\Inc-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F427xx -DUSE_HAL_DRIVER -DSTM32F427xx --C99-o .\outputjob\stm32f4xx_hal_rcc_ex.o --omf_browse .\outputjob\stm32f4xx_hal_rcc_ex.crf --depend .\outputjob\stm32f4xx_hal_rcc_ex.d)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x65B9E660)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI\stm32f4xx_hal_conf.h)(0x58469BBA)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD\RTE_Components.h)(0x65EAB146)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f427xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmSimd.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x58545D26)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rng.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x65B9E540)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_usart.h)(0x58545D28)
+F (C:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_rng.c)(0x5730635C)(-c --cpu Cortex-M4.fp -D__MICROLIB -g -O1 -Otime --apcs=interwork --split_sections -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Include -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ..\SenseBoard -I ..\SenseBoard\Hardware\Inc -I ..\SenseBoard\Models\Inc -I ..\User\Inc -I ..\ThirdParty --C99-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD-IC:\A_Apps\keil_kit\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\STM32F4xx_HAL_Driver\Inc-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F427xx -DUSE_HAL_DRIVER -DSTM32F427xx --C99-o .\outputjob\stm32f4xx_hal_rng.o --omf_browse .\outputjob\stm32f4xx_hal_rng.crf --depend .\outputjob\stm32f4xx_hal_rng.d)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x65B9E660)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI\stm32f4xx_hal_conf.h)(0x58469BBA)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD\RTE_Components.h)(0x65EAB146)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f427xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmSimd.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x58545D26)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rng.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x65B9E540)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_usart.h)(0x58545D28)
+F (C:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_spi.c)(0x5731B48A)(-c --cpu Cortex-M4.fp -D__MICROLIB -g -O1 -Otime --apcs=interwork --split_sections -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Include -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ..\SenseBoard -I ..\SenseBoard\Hardware\Inc -I ..\SenseBoard\Models\Inc -I ..\User\Inc -I ..\ThirdParty --C99-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD-IC:\A_Apps\keil_kit\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\STM32F4xx_HAL_Driver\Inc-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F427xx -DUSE_HAL_DRIVER -DSTM32F427xx --C99-o .\outputjob\stm32f4xx_hal_spi.o --omf_browse .\outputjob\stm32f4xx_hal_spi.crf --depend .\outputjob\stm32f4xx_hal_spi.d)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x65B9E660)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI\stm32f4xx_hal_conf.h)(0x58469BBA)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD\RTE_Components.h)(0x65EAB146)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f427xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmSimd.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x58545D26)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rng.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x65B9E540)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_usart.h)(0x58545D28)
+F (C:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_tim.c)(0x5730635C)(-c --cpu Cortex-M4.fp -D__MICROLIB -g -O1 -Otime --apcs=interwork --split_sections -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Include -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ..\SenseBoard -I ..\SenseBoard\Hardware\Inc -I ..\SenseBoard\Models\Inc -I ..\User\Inc -I ..\ThirdParty --C99-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD-IC:\A_Apps\keil_kit\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\STM32F4xx_HAL_Driver\Inc-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F427xx -DUSE_HAL_DRIVER -DSTM32F427xx --C99-o .\outputjob\stm32f4xx_hal_tim.o --omf_browse .\outputjob\stm32f4xx_hal_tim.crf --depend .\outputjob\stm32f4xx_hal_tim.d)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x65B9E660)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI\stm32f4xx_hal_conf.h)(0x58469BBA)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD\RTE_Components.h)(0x65EAB146)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f427xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmSimd.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x58545D26)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rng.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x65B9E540)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_usart.h)(0x58545D28)
+F (C:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_tim_ex.c)(0x5730635E)(-c --cpu Cortex-M4.fp -D__MICROLIB -g -O1 -Otime --apcs=interwork --split_sections -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Include -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ..\SenseBoard -I ..\SenseBoard\Hardware\Inc -I ..\SenseBoard\Models\Inc -I ..\User\Inc -I ..\ThirdParty --C99-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD-IC:\A_Apps\keil_kit\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\STM32F4xx_HAL_Driver\Inc-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F427xx -DUSE_HAL_DRIVER -DSTM32F427xx --C99-o .\outputjob\stm32f4xx_hal_tim_ex.o --omf_browse .\outputjob\stm32f4xx_hal_tim_ex.crf --depend .\outputjob\stm32f4xx_hal_tim_ex.d)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x65B9E660)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI\stm32f4xx_hal_conf.h)(0x58469BBA)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD\RTE_Components.h)(0x65EAB146)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f427xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmSimd.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x58545D26)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rng.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x65B9E540)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_usart.h)(0x58545D28)
+F (C:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_uart.c)(0x5730635C)(-c --cpu Cortex-M4.fp -D__MICROLIB -g -O1 -Otime --apcs=interwork --split_sections -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Include -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ..\SenseBoard -I ..\SenseBoard\Hardware\Inc -I ..\SenseBoard\Models\Inc -I ..\User\Inc -I ..\ThirdParty --C99-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD-IC:\A_Apps\keil_kit\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\STM32F4xx_HAL_Driver\Inc-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F427xx -DUSE_HAL_DRIVER -DSTM32F427xx --C99-o .\outputjob\stm32f4xx_hal_uart.o --omf_browse .\outputjob\stm32f4xx_hal_uart.crf --depend .\outputjob\stm32f4xx_hal_uart.d)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x65B9E660)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI\stm32f4xx_hal_conf.h)(0x58469BBA)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD\RTE_Components.h)(0x65EAB146)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f427xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmSimd.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x58545D26)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rng.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x65B9E540)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_usart.h)(0x58545D28)
+F (C:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_usart.c)(0x5730635E)(-c --cpu Cortex-M4.fp -D__MICROLIB -g -O1 -Otime --apcs=interwork --split_sections -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Include -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ..\SenseBoard -I ..\SenseBoard\Hardware\Inc -I ..\SenseBoard\Models\Inc -I ..\User\Inc -I ..\ThirdParty --C99-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD-IC:\A_Apps\keil_kit\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\STM32F4xx_HAL_Driver\Inc-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F427xx -DUSE_HAL_DRIVER -DSTM32F427xx --C99-o .\outputjob\stm32f4xx_hal_usart.o --omf_browse .\outputjob\stm32f4xx_hal_usart.crf --depend .\outputjob\stm32f4xx_hal_usart.d)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x65B9E660)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI\stm32f4xx_hal_conf.h)(0x58469BBA)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD\RTE_Components.h)(0x65EAB146)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f427xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmSimd.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x58545D26)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rng.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x65B9E540)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_usart.h)(0x58545D28)
+F (RTE\Device\STM32F427VI\RTE_Device.h)(0x58469BBA)()
+F (RTE\Device\STM32F427VI\startup_stm32f427xx.s)(0x65B9E540)(--cpu Cortex-M4.fp -g --apcs=interwork --pd "__MICROLIB SETA 1"-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD-IC:\A_Apps\keil_kit\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\STM32F4xx_HAL_Driver\Inc--pd "__UVISION_VERSION SETA 522" --pd "_RTE_ SETA 1" --pd "STM32F427xx SETA 1"--list ..\..\..\..\..\..\workspace\senseprj\tmplist\startup_stm32f427xx.lst --xref -o .\outputjob\startup_stm32f427xx.o --depend .\outputjob\startup_stm32f427xx.d)
+F (RTE\Device\STM32F427VI\stm32f4xx_hal_conf.h)(0x58469BBA)()
+F (RTE\Device\STM32F427VI\system_stm32f4xx.c)(0x58234BE8)(-c --cpu Cortex-M4.fp -D__MICROLIB -g -O1 -Otime --apcs=interwork --split_sections -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Include -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ..\SenseBoard -I ..\SenseBoard\Hardware\Inc -I ..\SenseBoard\Models\Inc -I ..\User\Inc -I ..\ThirdParty --C99-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI-Ic:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD-IC:\A_Apps\keil_kit\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-IC:\A_Apps\keil_kit\ARM\PACK\Keil\STM32F4xx_DFP\2.10.0\Drivers\STM32F4xx_HAL_Driver\Inc-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F427xx -DUSE_HAL_DRIVER -DSTM32F427xx --C99-o .\outputjob\system_stm32f4xx.o --omf_browse .\outputjob\system_stm32f4xx.crf --depend .\outputjob\system_stm32f4xx.d)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f427xx.h)(0x58545D26)
+I (../Drivers/CMSIS/Include/core_cm4.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x58545D28)
+I (../Drivers/CMSIS/Include/core_cmSimd.h)(0x58545D28)
+I (../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h)(0x58545D26)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h)(0x65B9E660)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\Device\STM32F427VI\stm32f4xx_hal_conf.h)(0x58469BBA)
+I (c:\A_RESEARCH\Colias\SI_LGMD\SI-LGMD2_LISI--LI--None\CoSLGMDs\MDK-ARM\RTE\_ColiasSenseV4-CHENGS5-SSD\RTE_Components.h)(0x65EAB146)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x58545D28)
+I (C:\A_Apps\keil_kit\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dcmi_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2s_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rng.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h)(0x58545D28)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h)(0x65B9E540)
+I (../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_usart.h)(0x58545D28)
